@@ -1,0 +1,69 @@
+p {
+    font-size: 18px;
+    font-family: arial, helvetica;
+    font-weight: normal;
+    text-align: center;
+    background-color: aquamarine;
+}
+h1 {
+    font-size: 36px;
+    font-family: verdana, arial;
+    text-decoration: underline;
+    text-align: center;
+    background-color: rgb(190, 243, 243);
+}
+h3{
+    font-size: 22px;
+    font-family: verdana, arial;
+    text-align: center;
+    background-color: aqua;
+}
+body {
+    background-color: rgba(70, 102, 131, 0.966);
+    font-family: arial;
+    color: white;
+}
+select{
+    font-size: 18px;
+    font-family: Georgia;
+    font-weight: normal;
+    text-align: center;
+}
+label{
+    font-size: 18px;
+    font-family: Gill Sans;
+    font-weight: normal;
+    text-align: center;
+}
+*{
+    margin: 1%;
+    padding: 1%;
+}
+ul{
+    text-align: center;
+    list-style-type: circle;
+    list-style-position: outside;
+}
+ul.menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 5%;
+}
+ul.menu li{
+    background: #f4f4f4;
+    border-bottom: 1px solid #7c7c7c;
+    border-top: 1px solid #fff;
+}
+ul.menu li a{
+    color: #333;
+    display: block;
+    padding: 5em;
+    text-decoration: none;
+}
+ol{
+    text-align: center;
+}
+a{
+    text-align: left;
+}

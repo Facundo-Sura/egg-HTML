@@ -1,0 +1,22 @@
+html {
+    font-family: Arial;
+}
+table {
+    border-color: #333;
+    text-align: center;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+    background-color: #e6f3ff;
+}
+td{
+    padding: 5px;
+}
+#titulo{
+    padding: 5px;
+    text-align: center;
+}
+#filaColor{
+    background-color: #ffffcc;
+}

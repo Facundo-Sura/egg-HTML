@@ -1,0 +1,16 @@
+/* Enlace en estado normal */
+a {
+    color: #CC0000; /* Color de texto rojo */
+    text-decoration: none; /* Elimina el subrayado predeterminado */
+  }
+  
+  /* Enlace al pasar el ratón sobre él */
+  a:hover {
+    background-color: #CC0000; /* Color de fondo rojo al pasar el ratón */
+    color: #FFF; /* Color de texto blanco al pasar el ratón */
+  }
+  
+  /* Enlaces visitados */
+  a:visited {
+    color: #CCC; /* Color de texto gris claro para enlaces visitados */
+  }  

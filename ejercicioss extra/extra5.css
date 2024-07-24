@@ -1,0 +1,38 @@
+*{
+    font-family: Arial;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+}
+.div2{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    background-color: lightgrey;
+    align-content: flex-start;
+    text-align: center;
+    border: none;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-left: 0;
+}
+h1{
+    margin-top: 20%;
+}
+p{
+    margin-top: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+button{
+    border: none;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: yellow;
+}

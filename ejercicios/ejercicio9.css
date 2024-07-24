@@ -1,0 +1,25 @@
+#titulo{
+    color:cadetblue;
+}
+strong{
+    color: red;
+}
+.destacado{
+    color: orange;
+}
+#subtitulo{
+    color: blue;
+}
+a{
+    color: red;
+}
+em{
+    color: blue;
+}
+.especial{
+    color: blueviolet;
+}
+table th{
+    border: 1em;
+    color: orange;
+}
